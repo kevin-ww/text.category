@@ -1,12 +1,9 @@
 package kvn.vista;
 
 import java.util.ArrayList;
-
 import java.util.Comparator;
 import java.util.List;
 import java.util.Vector;
-
-import  kvn.vista.TrainingDataManager;
 //
 //import com.vista.ClassConditionalProbability;
 //import com.vista.PriorProbability;
