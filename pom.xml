@@ -145,11 +145,11 @@
 			<artifactId>analyzer</artifactId>
 			<version>1.0</version>
 			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/je-analysis-1.5.1.jar</systemPath>
+			<systemPath>${basedir}/lib/je-analysis-1.5.1.jar</systemPath>
 		</dependency>
 	</dependencies>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.basedir>F:\\home\\310095504\\wrk\\NaviveBayesClassify</project.basedir>
+		<!-- <project.basedir>E:\\wrkspace\\text.category\\</project.basedir> -->
 	</properties>
 </project>
